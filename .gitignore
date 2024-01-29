@@ -1,0 +1,10 @@
+node_modules
+/lib/types
+/lib/coverage
+/markdown/types
+/doc/dist
+/doc/.nuxt
+/doc/.output
+/doc/components/compiled
+/doc/pages/compiled
+.idea/

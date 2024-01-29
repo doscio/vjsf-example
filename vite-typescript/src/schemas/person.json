@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "title": "A simple person definition",
+  "properties": {
+    "firstName": {
+      "type": "string",
+      "title": "First name"
+    },
+    "lastName": {
+      "type": "string",
+      "title": "Last name"
+    },
+    "dateProp": {
+      "type": "string",
+      "title": "I'm a simple date",
+      "format": "date",
+      "description": "This description is used as a help message.",
+      "layout": {
+        "cols": {
+          "xs": 6,
+          "md": 6
+        },
+        "props": {
+          "variant": "underlined",
+          "class": "papuasia"
+        }
+      }
+    }
+  }
+}

@@ -13,18 +13,7 @@
     "dateProp": {
       "type": "string",
       "title": "I'm a simple date",
-      "format": "date",
-      "description": "This description is used as a help message.",
-      "layout": {
-        "cols": {
-          "xs": 6,
-          "md": 6
-        },
-        "props": {
-          "variant": "underlined",
-          "class": "papuasia"
-        }
-      }
+      "format": "date"
     }
   }
 }
